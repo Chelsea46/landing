@@ -1,0 +1,21 @@
+.banner{
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+ .banner h1{
+  font-family: 'Ultra', serif;
+  font-size: 50px;
+}
+
+.banner p {
+  font-family: 'Ultra', serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px #ffff;
+}
+
+.banner-container{
+  text-align: center;
+}

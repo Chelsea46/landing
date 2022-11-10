@@ -1,0 +1,18 @@
+.footer li {
+    color: #3d84c7d2;
+     list-style: none;
+     display: inline-block;
+     margin: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #3b4f58;
+}
+
+
+
+.footer .fas {
+    color: #BF0F12;
+}

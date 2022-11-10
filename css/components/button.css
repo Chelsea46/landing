@@ -1,0 +1,24 @@
+.banner-btn{
+font-family: Lato;
+font-size: 20px;
+color: #000000;
+background: linear-gradient(143deg, #6e868b 0%, #315961 88%);
+padding: 12px 14px;
+border: none;
+box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+border-radius: 50px;
+transition : 989ms;
+transform: translateY(0);
+align-items: center;
+cursor: pointer;
+display: inline-block;
+margin-top: 50px;
+}
+
+.banner-btn:hover{
+transition : 989ms;
+padding: 10px 27px;
+transform : translateY(-3px);
+background: linear-gradient(143deg, #427985 0%, #37d1f0 88%);
+color: #ffffff;
+}
